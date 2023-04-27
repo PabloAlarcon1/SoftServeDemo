@@ -2,3 +2,6 @@ b0f6c41fc25b426db43f4c357bc3d91b
 
 ssh-keygen -t rsa -PEM
 
+https://github.com/PabloAlarcon1/SoftServeDemo
+
+https://github.com/andres-amezquita01/go-web-app
